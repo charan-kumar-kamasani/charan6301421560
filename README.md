@@ -16,25 +16,24 @@ Hey there, I'm Charan Kumar Kamasani! 👋
 You can connect with me on different platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charan-kumar-kamasani)
-[![GitHub](https://img.shields.io/badge/GitHub--black?style=flat-square&logo=github&logoColor=white)](https://github.com/charan6301421560)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/charan6301421560)
 
 ## Languages and Tools
 Here are some of the languages and tools I work with:
 ### Skills
 
-![HTML](https://img.shields.io/badge/HTML-Expert-green?style=flat-square)
-![CSS](https://img.shields.io/badge/CSS-Expert-green?style=flat-square)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-green?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-green?style=flat-square)
-![React.js](https://img.shields.io/badge/React.js-Expert-green?style=flat-square)
-![Python](https://img.shields.io/badge/Python-Expert-green?style=flat-square)
-![Express](https://img.shields.io/badge/Express-Expert-green?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-Expert-green?style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-Expert-green?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-Expert-green?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-Expert-green?style=flat-square)
-![Git](https://img.shields.io/badge/Git-Expert-green?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-Expert-green?style=flat-square)
+[![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
+[![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://en.wikipedia.org/wiki/JavaScript)
+[![React.js](https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-blue?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
+[![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
 
 ## GitHub Stats
