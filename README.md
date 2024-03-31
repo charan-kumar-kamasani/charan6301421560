@@ -15,7 +15,7 @@ Hey there, I'm Charan Kumar Kamasani! 👋
 ## Connect with Me
 You can connect with me on different platforms:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Charan%20Kumar%20Kamasani-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charan-kumar-kamasani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charan-kumar-kamasani)
 
 [GitHub](https://github.com/charan6301421560)
 
