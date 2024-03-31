@@ -41,5 +41,5 @@ Here are some of the languages and tools I work with:
 
 
 ## GitHub Stats
-![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?charan6301421560=charan-kamasani&show_icons=true&theme=radical)
+![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=charan6301421560&show_icons=true&theme=radical)
 
