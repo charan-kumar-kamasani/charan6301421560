@@ -36,7 +36,7 @@ Here are some of the languages and tools I work with:
 [![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
 [![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![MYSQL](https://img.shields.io/badge/MYSQL-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.org/)
+[![MYSQL](https://img.shields.io/badge/MYSQL-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 
 
